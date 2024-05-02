@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Thinkwise]">
+  <test thread-count="5" name="TestLoginTest(failed)">
+    <classes>
+      <class name="thinkwiseAutomation.LoginPageTest">
+        <methods>
+          <include name="verifyLoginTestCase"/>
+        </methods>
+      </class> <!-- thinkwiseAutomation.LoginPageTest -->
+    </classes>
+  </test> <!-- TestLoginTest(failed) -->
+</suite> <!-- Failed suite [Thinkwise] -->

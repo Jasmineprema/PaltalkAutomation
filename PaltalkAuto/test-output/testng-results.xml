@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T12:10:16 IST" name="Default suite" finished-at="2024-05-02T12:12:20 IST" duration-ms="123778">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T12:10:16 IST" name="Default test" finished-at="2024-05-02T12:12:20 IST" duration-ms="123778">
+      <class name="PaltalkAutomation.TestPaltalkWebpage">
+        <test-method is-config="true" signature="paltalkWebpage()[pri:0, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:10:16 IST" name="paltalkWebpage" finished-at="2024-05-02T12:10:26 IST" duration-ms="10066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paltalkWebpage -->
+        <test-method signature="testPaltalkFeaturesPage()[pri:1, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:10:26 IST" name="testPaltalkFeaturesPage" finished-at="2024-05-02T12:10:35 IST" duration-ms="9217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaltalkFeaturesPage -->
+        <test-method signature="testPaltalkMembersPage()[pri:2, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:10:35 IST" name="testPaltalkMembersPage" finished-at="2024-05-02T12:10:55 IST" duration-ms="19417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaltalkMembersPage -->
+        <test-method signature="testAge()[pri:3, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:10:55 IST" name="testAge" finished-at="2024-05-02T12:11:17 IST" duration-ms="22017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testFilters()[pri:4, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:11:17 IST" name="testFilters" finished-at="2024-05-02T12:11:22 IST" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilters -->
+        <test-method signature="testChatRoom()[pri:5, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:11:22 IST" name="testChatRoom" finished-at="2024-05-02T12:12:11 IST" duration-ms="48250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChatRoom -->
+        <test-method signature="testProducts()[pri:6, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:12:11 IST" name="testProducts" finished-at="2024-05-02T12:12:17 IST" duration-ms="6699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProducts -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:PaltalkAutomation.TestPaltalkWebpage@55634720]" started-at="2024-05-02T12:12:17 IST" name="afterTest" finished-at="2024-05-02T12:12:20 IST" duration-ms="2169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- PaltalkAutomation.TestPaltalkWebpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
